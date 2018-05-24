@@ -5,7 +5,7 @@ class AdminModel extends Model {
   }
 
   public function asd() {
-    echo "<br /> первый хуй <br /> ";
+    echo "<br /> <br /> ";
   }
 
   public function ShowPage() {
